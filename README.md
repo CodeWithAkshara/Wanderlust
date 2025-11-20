@@ -5,24 +5,24 @@ It allows users to explore, add, and review travel destinations with a simple an
 
  ## 🚀 Features
 
-Secure user login and signup
+- Secure user login and signup
 
-Add, edit, and delete listings
+- Add, edit, and delete listings
 
-Review and rating system
+- Review and rating system
 
-Cloud image uploads
+- Cloud image uploads
 
-Flash messages for instant feedback
+- Flash messages for instant feedback
 
-Responsive and elegant UI
+- Responsive and elegant UI
 
 ## 🧰 Tech Stack
 
-Frontend: HTML, CSS, EJS, Bootstrap
+- Frontend: HTML, CSS, EJS, Bootstrap
 
-Backend: Node.js, Express.js
+- Backend: Node.js, Express.js
 
-Database: MongoDB Atlas
+- Database: MongoDB Atlas
 
 Cloud Service: Cloudinary
