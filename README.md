@@ -1,9 +1,9 @@
-🌍 Wanderlust
+#🌍 Wanderlust
 
 Wanderlust is a travel web application built using the MERN stack (MongoDB, Express.js, Node.js).
 It allows users to explore, add, and review travel destinations with a simple and interactive experience.
 
-🚀 Features
+##🚀 Features
 
 Secure user login and signup
 
